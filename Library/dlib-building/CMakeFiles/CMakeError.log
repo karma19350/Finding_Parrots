@@ -1,0 +1,80 @@
+Determining if the function sgemm_ exists failed with the following output:
+Change Dir: D:/Download/dlib-building/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_222b3.vcxproj" "/p:Configuration=Debug" "/p:Platform=x64" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.8.169+g1ccb72aefa
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/11/23 21:06:21。
+节点 1 上的项目“D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_222b3.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_222b3.dir\Debug\”。
+  正在创建目录“D:\Download\dlib-building\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_222b3.dir\Debug\cmTC_222b3.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_222b3.dir\Debug\cmTC_222b3.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /ID:\Software\opencv\build\include /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=sgemm_ /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_222b3.dir\Debug\\" /Fd"cmTC_222b3.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "D:\Download\cmake-3.13.0-win64-x64\cmake-3.13.0-win64-x64\share\cmake-3.13\Modules\CheckFunctionExists.c"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.15.26730 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /ID:\Software\opencv\build\include /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=sgemm_ /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_222b3.dir\Debug\\" /Fd"cmTC_222b3.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "D:\Download\cmake-3.13.0-win64-x64\cmake-3.13.0-win64-x64\share\cmake-3.13\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Download\dlib-building\CMakeFiles\CMakeTmp\Debug\cmTC_222b3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Download\dlib-building\Debug" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Download/dlib-building/CMakeFiles/CMakeTmp/Debug/cmTC_222b3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Download/dlib-building/CMakeFiles/CMakeTmp/Debug/cmTC_222b3.lib" /MACHINE:X64  /machine:x64 cmTC_222b3.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 sgemm_，该符号在函数 main 中被引用 [D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_222b3.vcxproj]
+D:\Download\dlib-building\CMakeFiles\CMakeTmp\Debug\cmTC_222b3.exe : fatal error LNK1120: 1 个无法解析的外部命令 [D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_222b3.vcxproj]
+已完成生成项目“D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_222b3.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_222b3.vcxproj”(默认目标) (1) ->
+(Link 目标) -> 
+  CheckFunctionExists.obj : error LNK2019: 无法解析的外部符号 sgemm_，该符号在函数 main 中被引用 [D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_222b3.vcxproj]
+  D:\Download\dlib-building\CMakeFiles\CMakeTmp\Debug\cmTC_222b3.exe : fatal error LNK1120: 1 个无法解析的外部命令 [D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_222b3.vcxproj]
+
+    0 个警告
+    2 个错误
+
+已用时间 00:00:00.92
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: D:/Download/dlib-building/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_a26c5.vcxproj" "/p:Configuration=Debug" "/p:Platform=x64" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.8.169+g1ccb72aefa
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/11/23 21:06:22。
+节点 1 上的项目“D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_a26c5.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_a26c5.dir\Debug\”。
+  正在创建目录“D:\Download\dlib-building\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_a26c5.dir\Debug\cmTC_a26c5.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_a26c5.dir\Debug\cmTC_a26c5.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64\CL.exe /c /ID:\Software\opencv\build\include /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a26c5.dir\Debug\\" /Fd"cmTC_a26c5.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "D:\Download\dlib-building\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.15.26730 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /ID:\Software\opencv\build\include /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a26c5.dir\Debug\\" /Fd"cmTC_a26c5.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "D:\Download\dlib-building\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+D:\Download\dlib-building\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory [D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_a26c5.vcxproj]
+已完成生成项目“D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_a26c5.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_a26c5.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  D:\Download\dlib-building\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory [D:\Download\dlib-building\CMakeFiles\CMakeTmp\cmTC_a26c5.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.48
+
+
