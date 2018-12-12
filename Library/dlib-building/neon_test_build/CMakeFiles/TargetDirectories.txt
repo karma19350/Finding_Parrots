@@ -1,3 +1,0 @@
-D:/Download/dlib-building/neon_test_build/CMakeFiles/neon_test.dir
-D:/Download/dlib-building/neon_test_build/CMakeFiles/ALL_BUILD.dir
-D:/Download/dlib-building/neon_test_build/CMakeFiles/ZERO_CHECK.dir

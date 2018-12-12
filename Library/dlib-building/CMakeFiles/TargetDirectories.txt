@@ -1,5 +1,0 @@
-D:/Download/dlib-building/CMakeFiles/dlib.dir
-D:/Download/dlib-building/CMakeFiles/PACKAGE.dir
-D:/Download/dlib-building/CMakeFiles/INSTALL.dir
-D:/Download/dlib-building/CMakeFiles/ALL_BUILD.dir
-D:/Download/dlib-building/CMakeFiles/ZERO_CHECK.dir

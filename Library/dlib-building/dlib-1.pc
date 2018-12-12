@@ -1,9 +1,0 @@
-libdir=C:/Program Files/dlib/lib
-includedir=C:/Program Files/dlib/include
-
-Name: dlib
-Description: Numerical and networking C++ library
-Version: 19.16.0
-Libs: -L${libdir} -ldlib
-Cflags: -I${includedir}
-Requires:
