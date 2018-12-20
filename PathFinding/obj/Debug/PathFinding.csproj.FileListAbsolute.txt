@@ -1,0 +1,11 @@
+D:\C#\PathFinding\PathFinding\bin\Debug\PathFinding.exe.config
+D:\C#\PathFinding\PathFinding\bin\Debug\PathFinding.exe
+D:\C#\PathFinding\PathFinding\bin\Debug\PathFinding.pdb
+D:\C#\PathFinding\PathFinding\obj\Debug\PathFinding.Properties.Resources.resources
+D:\C#\PathFinding\PathFinding\obj\Debug\PathFinding.csproj.GenerateResource.cache
+D:\C#\PathFinding\PathFinding\obj\Debug\PathFinding.csproj.CoreCompileInputs.cache
+D:\C#\PathFinding\PathFinding\obj\Debug\PathFinding.exe
+D:\C#\PathFinding\PathFinding\obj\Debug\PathFinding.pdb
+D:\C#\PathFinding\PathFinding\obj\Debug\PathFinding.Form1.resources
+D:\C#\PathFinding\PathFinding\bin\Debug\MaterialSkin.dll
+D:\C#\PathFinding\PathFinding\obj\Debug\PathFinding.csproj.CopyComplete
